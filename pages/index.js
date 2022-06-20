@@ -11,9 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
         <p className="description">
-You can email podcast@qi.com
+You can email <a href="mailto:podcast@qi.com">podcast@qi.com</a>
         </p>
       </main>
 
